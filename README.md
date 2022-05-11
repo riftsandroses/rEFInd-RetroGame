@@ -37,7 +37,7 @@ Step-3 : Add Configuration Code for rEFInd-RetroGame Theme in `refind.conf` file
 
 ## Customization Guide
 
-One of the major pros of rEFInd Boot Manager is the ability to easily customize the Boot Manager according to your need without needing to learn programming specifically for this purpose. Besides the numerous themes available online for free, here are two ways to customize the rEFInd Boot Manager for free. Using these methods gives you access to every aspect of the Boot Manager for customization hence, giving you even greater control on the Themeing and Customization of you rEFInd Boot Manager.
+One of the major selling point of rEFInd Boot Manager is the ability to easily customize the Boot Manager according to your need without needing to learn programming specifically for this purpose. Besides the numerous themes available online for free, here are two ways to customize the rEFInd Boot Manager for free. Using these methods gives you access to every aspect of the Boot Manager for customization hence, giving you even greater control on the Themeing and Customization of you rEFInd Boot Manager.
 
 1. **Concise Guide (for Intermediate & Advanced Users) :**
     In the `refind.conf` file found in the `refind` directory, there is an extensive yet short guide on syntaxes and their usages for customization which are commented out. Feel free to go through those comments and implement your own customizations.
