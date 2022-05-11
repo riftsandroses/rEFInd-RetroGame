@@ -39,7 +39,7 @@ Step-3 : Add Configuration Code for rEFInd-RetroGame Theme in refind.conf file
 #### 1. How to install rEFInd Bootloader ?
 
 A complete and comprehensive guide to installation of rEFInd Boot Manager can be found on the official website linked below. The installation process might differ for each Operating System so it is advised to go through this website thoroughly before attempting installation on uncommon Operating Systems.  
-[rEFInd Official Website](https://www.rodsbooks.com/refind/)
+          [rEFInd Official Website](https://www.rodsbooks.com/refind/)
 
 #### 2. How to fix issues of rEFInd-RetroGame theme not applying ?
 Most of the issues arising with unsuccessful application of rEFInd-RetroGame theme on the rEFInd Boot Manager can be solved by changing a few lines in refind.conf file and theme.conf file. In refind.conf, it has to be made sure that the 'include' line added by the user must be followed by the correct path to the theme.conf file. Assests of themes like icons and background must have correct names and paths in the theme.conf file too.
