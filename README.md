@@ -41,9 +41,12 @@ Step-3 : Add Configuration Code for rEFInd-RetroGame Theme in refind.conf file
 A complete and comprehensive guide to installation of rEFInd Boot Manager can be found on the official website linked below. The installation process might differ for each Operating System so it is advised to go through this website thoroughly before attempting installation on uncommon Operating Systems. Every aspect in regards to the rEFInd Boot Manager can be found here: [rEFInd Official Website](https://www.rodsbooks.com/refind/)
 
 #### 2. How to fix issues of rEFInd-RetroGame theme not applying ?
+
 Most of the issues arising with unsuccessful application of rEFInd-RetroGame theme on the rEFInd Boot Manager can be solved by changing a few lines in refind.conf file and theme.conf file. In refind.conf, it has to be made sure that the 'include' line added by the user must be followed by the correct path to the theme.conf file. Assests of themes like icons and background must have correct names and paths in the theme.conf file too.
 
-#### 3.
+#### 3. How do I get my Operating System logo to show up on rEFInd Boot Manager ?
+
+Most of the popular Operating Systems are supported. In case you are a user of an uncommon Operating System which does not get detected by rEFInd Boot Manager then it is better to get in touch with the creators of rEFInd Boot Manager. If rEFInd Boot Manager supports your Operating System but it does not show up due to absence of a logo in this theme then feel free to reach out via e-mail to request addition of that logo in this Theme Pack.
 
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/riftsandroses)
@@ -53,7 +56,7 @@ Most of the issues arising with unsuccessful application of rEFInd-RetroGame the
 
 ## Feedback
 
-If you have any feedback, please do not hesitate to reach out to me at utkarsh.cpp@gmail.com
+If you have any feedback or requests, please do not hesitate to reach out to me at utkarsh.cpp@gmail.com
 
 
 ## License
