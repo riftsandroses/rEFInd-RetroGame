@@ -12,7 +12,7 @@ Efforts have been made to include icons that go well with this theme, all while 
 ![](https://img.shields.io/github/commit-activity/w/riftsandroses/rEFInd-RetroGame?style=for-the-badge)
 
 
-## Screenshots
+## Screenshot
 
 
 ## Installation
