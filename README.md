@@ -8,31 +8,44 @@ Efforts have been made to include icons that go well with this theme, all while 
 ![](https://img.shields.io/github/license/riftsandroses/rEFInd-RetroGame?style=for-the-badge)
 ![](https://img.shields.io/github/commit-activity/w/riftsandroses/rEFInd-RetroGame?style=for-the-badge)
 
+
 ## Screenshots
+
 
 ## Installation
 
-This theme is very easy to install, it is just a matter of moving files from download location to the rEFInd installation directory. Following is a 3-step guide to installing this theme:
+This theme is very easy to install, it is just a matter of moving files from download location to the `rEFInd` installation directory. Following is a 3-step guide to installing this theme:
 
-Step-1 : Navigate to Home Directory and Clone the Repository
+Step-1 : Navigate to `Home` Directory and Clone the Repository
 
 ```bash
   cd ~
   git clone https://github.com/riftsandroses/rEFInd-RetroGame.git
 ```
 
-Step-2 : Move the Downloaded files to the rEFInd Directory (This requires sudo privileges)
+Step-2 : Move the Downloaded files to the `rEFInd` Directory (This requires sudo privileges)
 
 ```bash
   sudo mv rEFInd-RetroGame /boot/efi/EFI/refind
 ```
 
-Step-3 : Add Configuration Code for rEFInd-RetroGame Theme in refind.conf file
+Step-3 : Add Configuration Code for rEFInd-RetroGame Theme in `refind.conf` file
 ```bash
   sudo echo 'include rEFInd-RetroGame/theme.conf' >> refind.conf
 ```
 
+
 ## Customization Guide
+
+One of the major pros of rEFInd Boot Manager is the ability to easily customize the Boot Manager according to your need without needing to learn programming specifically for this purpose. Besides the numerous themes available online for free, here are two ways to customize the rEFInd Boot Manager for free. Using these methods gives you access to every aspect of the Boot Manager for customization hence, giving you even greater control on the Themeing and Customization of you rEFInd Boot Manager.
+
+1. Concise Guide (for Intermediate & Advanced Users) :
+    In the `refind.conf` file found in the `refind` directory, there is an extensive yet short guide on syntaxes and their usages for customization which are commented out. Feel free to go through those comments and implement your own customizations.
+3. Comprehensive Guide (for Knowledgeable Beginners) :
+    On the official website of rEFInd linked here : [rEFInd Official Website](https://www.rodsbooks.com/refind/), a very detailed and comprehensive guide can be found on customizations. This documentation on the Official Website will walk users through syntaxes, their usages and cautionary steps and measures to avoid breaking the installation. 
+
+Care must be taken to ensure that all due research is done before attempting these advanced customizations as they might render your Hard Disk and Data unusuable promoting you to make fresh installations. It is advised to have some basic knowledge of Operating Systems and File Storage & Systems Managements.
+
 
 ## FAQ
 
@@ -42,11 +55,12 @@ A complete and comprehensive guide to installation of rEFInd Boot Manager can be
 
 #### 2. How to fix issues of rEFInd-RetroGame theme not applying ?
 
-Most of the issues arising with unsuccessful application of rEFInd-RetroGame theme on the rEFInd Boot Manager can be solved by changing a few lines in refind.conf file and theme.conf file. In refind.conf, it has to be made sure that the 'include' line added by the user must be followed by the correct path to the theme.conf file. Assests of themes like icons and background must have correct names and paths in the theme.conf file too.
+Most of the issues arising with unsuccessful application of rEFInd-RetroGame theme on the rEFInd Boot Manager can be solved by changing a few lines in `refind.conf` file and `theme.conf` file. In `refind.conf`, it has to be made sure that the 'include' line added by the user must be followed by the correct path to the `theme.conf` file. Assests of themes like icons and background must have correct names and paths in the `theme.conf` file too.
 
 #### 3. How do I get my Operating System logo to show up on rEFInd Boot Manager ?
 
 Most of the popular Operating Systems are supported. In case you are a user of an uncommon Operating System which does not get detected by rEFInd Boot Manager then it is better to get in touch with the creators of rEFInd Boot Manager. If rEFInd Boot Manager supports your Operating System but it does not show up due to absence of a logo in this theme then feel free to reach out via e-mail to request addition of that logo in this Theme Pack.
+
 
 ## Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/riftsandroses)
