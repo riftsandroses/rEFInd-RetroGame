@@ -1,9 +1,9 @@
 # rEFInd-RetroGame Theme
 ![](https://user-images.githubusercontent.com/63180210/167790981-0c4ee882-d1d9-4ce6-a894-d69e8bf1c2ef.png)
 
-An old-school retro Theme for rEFInd Boot Manager. rEFInd-RetroGame is a theme inspired by the golden yesteryears of Gaming when pixelated graphics and tiny sprites were the norm. There was something beautiful about the design of those games; the colour schemes, the story lines, the illustraions, etc. rEFInd-RetroGame has tried to encapsulate the same artistic brilliancy and nostalgia to help rEFInd users to relive the past. This theme has tried to come up with an amazing blend by trying to combine Artworks of Retro Games with the Modern Minimalist Icon Design patterns. 
+&emsp;An old-school retro Theme for rEFInd Boot Manager. rEFInd-RetroGame is a theme inspired by the golden yesteryears of Gaming when pixelated graphics and tiny sprites were the norm. There was something beautiful about the design of those games; the colour schemes, the story lines, the illustraions, etc. rEFInd-RetroGame has tried to encapsulate the same artistic brilliancy and nostalgia to help rEFInd users to relive the past. This theme has tried to come up with an amazing blend by trying to combine Artworks of Retro Games with the Modern Minimalist Icon Design patterns. 
 
-Efforts have been made to include icons that go well with this theme, all while staying true to the core philosphy behind the making of this theme. Icons for all major and some minor Operating Systems, be it the top Linux Distros or BSD distribution, have been included in this theme to ensure smooth usage of this theme for end users of rEFInd Boot Manager.
+&emsp;Efforts have been made to include icons that go well with this theme, all while staying true to the core philosphy behind the making of this theme. Icons for all major and some minor Operating Systems, be it the top Linux Distros or BSD distribution, have been included in this theme to ensure smooth usage of this theme for end users of rEFInd Boot Manager.
 
 ![](https://img.shields.io/github/repo-size/riftsandroses/rEFInd-RetroGame?style=for-the-badge)
 ![](https://img.shields.io/github/license/riftsandroses/rEFInd-RetroGame?style=for-the-badge)
@@ -17,7 +17,7 @@ Efforts have been made to include icons that go well with this theme, all while 
 
 ## Installation
 
-This theme is very easy to install, it is just a matter of moving files from download location to the `rEFInd` installation directory. Following is a 3-step guide to installing this theme:
+&emsp;This theme is very easy to install, it is just a matter of moving files from download location to the `rEFInd` installation directory. Following is a 3-step guide to installing this theme:
 
 Step-1 : Navigate to `Home` Directory and Clone the Repository
 
@@ -40,14 +40,14 @@ Step-3 : Add Configuration Code for rEFInd-RetroGame Theme in `refind.conf` file
 
 ## Customization Guide
 
-One of the major selling point of rEFInd Boot Manager is the ability to easily customize the Boot Manager according to your need without needing to learn programming specifically for this purpose. Besides the numerous themes available online for free, here are two ways to customize the rEFInd Boot Manager for free. Using these methods gives you access to every aspect of the Boot Manager for customization hence, giving you even greater control on the Themeing and Customization of you rEFInd Boot Manager.
+&emsp;One of the major selling point of rEFInd Boot Manager is the ability to easily customize the Boot Manager according to your need without needing to learn programming specifically for this purpose. Besides the numerous themes available online for free, here are two ways to customize the rEFInd Boot Manager for free. Using these methods gives you access to every aspect of the Boot Manager for customization hence, giving you even greater control on the Themeing and Customization of you rEFInd Boot Manager.
 
 1. **Concise Guide (for Intermediate & Advanced Users) :**
     In the `refind.conf` file found in the `refind` directory, there is an extensive yet short guide on syntaxes and their usages for customization which are commented out. Feel free to go through those comments and implement your own customizations.
 2. **Comprehensive Guide (for Knowledgeable Beginners) :**
     On the official website of rEFInd linked here : [rEFInd Official Website](https://www.rodsbooks.com/refind/), a very detailed and comprehensive guide can be found on customizations. This documentation on the Official Website will walk users through syntaxes, their usages and cautionary steps and measures to avoid breaking the installation. 
 
-Care must be taken to ensure that all due research is done before attempting these advanced customizations as they might render your Hard Disk and Data unusuable promoting you to make fresh installations. It is advised to have some basic knowledge of Operating Systems and File Storage & Systems Managements.
+&emsp;Care must be taken to ensure that all due research is done before attempting these advanced customizations as they might render your Hard Disk and Data unusuable promoting you to make fresh installations. It is advised to have some basic knowledge of Operating Systems and File Storage & Systems Managements.
 
 
 ## FAQ
