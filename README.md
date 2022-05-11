@@ -13,7 +13,7 @@ Efforts have been made to include icons that go well with this theme, all while 
 
 
 ## Screenshot
-
+![](https://user-images.githubusercontent.com/63180210/167786632-f3143356-b3b6-4491-b99e-e7f50ddc5068.png)
 
 ## Installation
 
