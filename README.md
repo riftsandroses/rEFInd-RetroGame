@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/github/repo-size/riftsandroses/rEFInd-RetroGame?style=for-the-badge)
 ![](https://img.shields.io/github/license/riftsandroses/rEFInd-RetroGame?style=for-the-badge)
-![](https://img.shields.io/github/commit-activity/w/riftsandroses/rEFInd-RetroGame?style=for-the-badge)  
+![](https://img.shields.io/github/commit-activity/y/riftsandroses/rEFInd-RetroGame?style=for-the-badge)  
 \
 **QUICK TIP:**  *rEFInd Boot Manager can easily be installed on Debian-based Linux Distros by running `sudo apt-get install refind -y` in the Linux Terminal window.*
 
