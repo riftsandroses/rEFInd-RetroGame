@@ -1,4 +1,5 @@
 # rEFInd-RetroGame Theme
+![](https://user-images.githubusercontent.com/63180210/167790981-0c4ee882-d1d9-4ce6-a894-d69e8bf1c2ef.png)
 
 An old-school retro Theme for rEFInd Boot Manager. rEFInd-RetroGame is a theme inspired by the golden yesteryears of Gaming when pixelated graphics and tiny sprites were the norm. There was something beautiful about the design of those games; the colour schemes, the story lines, the illustraions, etc. rEFInd-RetroGame has tried to encapsulate the same artistic brilliancy and nostalgia to help rEFInd users to relive the past. This theme has tried to come up with an amazing blend by trying to combine Artworks of Retro Games with the Modern Minimalist Icon Design patterns. 
 
